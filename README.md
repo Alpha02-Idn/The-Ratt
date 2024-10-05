@@ -7,5 +7,8 @@ How to use:
 1. Clone: https://github.com/Alpha02-Idn/The-Ratt.git
 2. cd The-Ratt
 3. bash The-Ratt.sh
+4. Input target
+For Example: Alpha02-Idn
+5. Done
 
 Tested in Linux, ArcLinux, and Termux
